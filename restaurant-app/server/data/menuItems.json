@@ -1,0 +1,2302 @@
+[
+  {
+    "name": "Paneer Butter Masala",
+    "description": "Authentic 100% pure veg Paneer Butter Masala prepared fresh in our hygienic kitchens.",
+    "price": 178,
+    "image": "https://foodish-api.com/images/biryani/biryani2.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Paneer Kadai",
+    "description": "Authentic 100% pure veg Paneer Kadai prepared fresh in our hygienic kitchens.",
+    "price": 158,
+    "image": "https://foodish-api.com/images/dosa/dosa2.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 5
+  },
+  {
+    "name": "Paneer Palak",
+    "description": "Authentic 100% pure veg Paneer Palak prepared fresh in our hygienic kitchens.",
+    "price": 154,
+    "image": "https://foodish-api.com/images/idly/idly2.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.1
+  },
+  {
+    "name": "Paneer Tikka Masala",
+    "description": "Authentic 100% pure veg Paneer Tikka Masala prepared fresh in our hygienic kitchens.",
+    "price": 187,
+    "image": "https://foodish-api.com/images/rice/rice2.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Paneer Makhani",
+    "description": "Authentic 100% pure veg Paneer Makhani prepared fresh in our hygienic kitchens.",
+    "price": 414,
+    "image": "https://foodish-api.com/images/biryani/biryani3.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Dal Makhani",
+    "description": "Authentic 100% pure veg Dal Makhani prepared fresh in our hygienic kitchens.",
+    "price": 228,
+    "image": "https://foodish-api.com/images/dosa/dosa3.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Dal Tadka",
+    "description": "Authentic 100% pure veg Dal Tadka prepared fresh in our hygienic kitchens.",
+    "price": 422,
+    "image": "https://foodish-api.com/images/idly/idly3.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Dal Fry",
+    "description": "Authentic 100% pure veg Dal Fry prepared fresh in our hygienic kitchens.",
+    "price": 318,
+    "image": "https://foodish-api.com/images/rice/rice3.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Dal Palak",
+    "description": "Authentic 100% pure veg Dal Palak prepared fresh in our hygienic kitchens.",
+    "price": 318,
+    "image": "https://foodish-api.com/images/biryani/biryani4.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Dal Panchratna",
+    "description": "Authentic 100% pure veg Dal Panchratna prepared fresh in our hygienic kitchens.",
+    "price": 407,
+    "image": "https://foodish-api.com/images/dosa/dosa4.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Dal Bukhara",
+    "description": "Authentic 100% pure veg Dal Bukhara prepared fresh in our hygienic kitchens.",
+    "price": 202,
+    "image": "https://foodish-api.com/images/idly/idly4.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Dal Lahsuni",
+    "description": "Authentic 100% pure veg Dal Lahsuni prepared fresh in our hygienic kitchens.",
+    "price": 200,
+    "image": "https://foodish-api.com/images/rice/rice4.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Dal Dhaba Style",
+    "description": "Authentic 100% pure veg Dal Dhaba Style prepared fresh in our hygienic kitchens.",
+    "price": 263,
+    "image": "https://foodish-api.com/images/biryani/biryani5.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Dal Jeera",
+    "description": "Authentic 100% pure veg Dal Jeera prepared fresh in our hygienic kitchens.",
+    "price": 128,
+    "image": "https://foodish-api.com/images/dosa/dosa5.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.4
+  },
+  {
+    "name": "Dal Tomato",
+    "description": "Authentic 100% pure veg Dal Tomato prepared fresh in our hygienic kitchens.",
+    "price": 100,
+    "image": "https://foodish-api.com/images/idly/idly5.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.8
+  },
+  {
+    "name": "Dal Gujarati",
+    "description": "Authentic 100% pure veg Dal Gujarati prepared fresh in our hygienic kitchens.",
+    "price": 449,
+    "image": "https://foodish-api.com/images/rice/rice5.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Dal Maharashtrian",
+    "description": "Authentic 100% pure veg Dal Maharashtrian prepared fresh in our hygienic kitchens.",
+    "price": 293,
+    "image": "https://foodish-api.com/images/biryani/biryani6.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Dal Hyderabadi",
+    "description": "Authentic 100% pure veg Dal Hyderabadi prepared fresh in our hygienic kitchens.",
+    "price": 326,
+    "image": "https://foodish-api.com/images/dosa/dosa6.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Dal Kashmiri",
+    "description": "Authentic 100% pure veg Dal Kashmiri prepared fresh in our hygienic kitchens.",
+    "price": 419,
+    "image": "https://foodish-api.com/images/idly/idly6.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Dal Amritsari",
+    "description": "Authentic 100% pure veg Dal Amritsari prepared fresh in our hygienic kitchens.",
+    "price": 172,
+    "image": "https://foodish-api.com/images/rice/rice6.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Dal Punjabi",
+    "description": "Authentic 100% pure veg Dal Punjabi prepared fresh in our hygienic kitchens.",
+    "price": 323,
+    "image": "https://foodish-api.com/images/biryani/biryani7.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Dal Sindhi",
+    "description": "Authentic 100% pure veg Dal Sindhi prepared fresh in our hygienic kitchens.",
+    "price": 224,
+    "image": "https://foodish-api.com/images/dosa/dosa7.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Dal Pahari",
+    "description": "Authentic 100% pure veg Dal Pahari prepared fresh in our hygienic kitchens.",
+    "price": 378,
+    "image": "https://foodish-api.com/images/idly/idly7.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Dal Khatti",
+    "description": "Authentic 100% pure veg Dal Khatti prepared fresh in our hygienic kitchens.",
+    "price": 436,
+    "image": "https://foodish-api.com/images/rice/rice7.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Dal Meethi",
+    "description": "Authentic 100% pure veg Dal Meethi prepared fresh in our hygienic kitchens.",
+    "price": 180,
+    "image": "https://foodish-api.com/images/biryani/biryani8.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Chana Masala",
+    "description": "Authentic 100% pure veg Chana Masala prepared fresh in our hygienic kitchens.",
+    "price": 344,
+    "image": "https://foodish-api.com/images/dosa/dosa8.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Rajma Masala",
+    "description": "Authentic 100% pure veg Rajma Masala prepared fresh in our hygienic kitchens.",
+    "price": 370,
+    "image": "https://foodish-api.com/images/idly/idly8.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Lobia Masala",
+    "description": "Authentic 100% pure veg Lobia Masala prepared fresh in our hygienic kitchens.",
+    "price": 350,
+    "image": "https://foodish-api.com/images/rice/rice8.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Kala Chana",
+    "description": "Authentic 100% pure veg Kala Chana prepared fresh in our hygienic kitchens.",
+    "price": 237,
+    "image": "https://foodish-api.com/images/biryani/biryani9.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Pindi Chole",
+    "description": "Authentic 100% pure veg Pindi Chole prepared fresh in our hygienic kitchens.",
+    "price": 374,
+    "image": "https://foodish-api.com/images/dosa/dosa9.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  },
+  {
+    "name": "Amritsari Chole",
+    "description": "Authentic 100% pure veg Amritsari Chole prepared fresh in our hygienic kitchens.",
+    "price": 129,
+    "image": "https://foodish-api.com/images/idly/idly9.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Masala Dosa",
+    "description": "Authentic 100% pure veg Masala Dosa prepared fresh in our hygienic kitchens.",
+    "price": 380,
+    "image": "https://foodish-api.com/images/dosa/dosa10.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 5
+  },
+  {
+    "name": "Plain Dosa",
+    "description": "Authentic 100% pure veg Plain Dosa prepared fresh in our hygienic kitchens.",
+    "price": 387,
+    "image": "https://foodish-api.com/images/dosa/dosa11.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.4
+  },
+  {
+    "name": "Onion Dosa",
+    "description": "Authentic 100% pure veg Onion Dosa prepared fresh in our hygienic kitchens.",
+    "price": 110,
+    "image": "https://foodish-api.com/images/dosa/dosa12.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Rava Dosa",
+    "description": "Authentic 100% pure veg Rava Dosa prepared fresh in our hygienic kitchens.",
+    "price": 397,
+    "image": "https://foodish-api.com/images/dosa/dosa13.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4
+  },
+  {
+    "name": "Onion Rava Dosa",
+    "description": "Authentic 100% pure veg Onion Rava Dosa prepared fresh in our hygienic kitchens.",
+    "price": 197,
+    "image": "https://foodish-api.com/images/dosa/dosa14.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.1
+  },
+  {
+    "name": "Mysore Masala Dosa",
+    "description": "Authentic 100% pure veg Mysore Masala Dosa prepared fresh in our hygienic kitchens.",
+    "price": 134,
+    "image": "https://foodish-api.com/images/dosa/dosa15.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Paneer Dosa",
+    "description": "Authentic 100% pure veg Paneer Dosa prepared fresh in our hygienic kitchens.",
+    "price": 322,
+    "image": "https://foodish-api.com/images/dosa/dosa16.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Cheese Dosa",
+    "description": "Authentic 100% pure veg Cheese Dosa prepared fresh in our hygienic kitchens.",
+    "price": 301,
+    "image": "https://foodish-api.com/images/dosa/dosa17.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Cheese Burst Dosa",
+    "description": "Authentic 100% pure veg Cheese Burst Dosa prepared fresh in our hygienic kitchens.",
+    "price": 256,
+    "image": "https://foodish-api.com/images/dosa/dosa18.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Ghee Roast Dosa",
+    "description": "Authentic 100% pure veg Ghee Roast Dosa prepared fresh in our hygienic kitchens.",
+    "price": 266,
+    "image": "https://foodish-api.com/images/dosa/dosa19.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Paper Dosa",
+    "description": "Authentic 100% pure veg Paper Dosa prepared fresh in our hygienic kitchens.",
+    "price": 380,
+    "image": "https://foodish-api.com/images/dosa/dosa20.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Family Dosa",
+    "description": "Authentic 100% pure veg Family Dosa prepared fresh in our hygienic kitchens.",
+    "price": 234,
+    "image": "https://foodish-api.com/images/dosa/dosa21.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Spring Dosa",
+    "description": "Authentic 100% pure veg Spring Dosa prepared fresh in our hygienic kitchens.",
+    "price": 415,
+    "image": "https://foodish-api.com/images/dosa/dosa22.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Schezwan Dosa",
+    "description": "Authentic 100% pure veg Schezwan Dosa prepared fresh in our hygienic kitchens.",
+    "price": 165,
+    "image": "https://foodish-api.com/images/dosa/dosa23.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Jini Dosa",
+    "description": "Authentic 100% pure veg Jini Dosa prepared fresh in our hygienic kitchens.",
+    "price": 227,
+    "image": "https://foodish-api.com/images/dosa/dosa24.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.4
+  },
+  {
+    "name": "Set Dosa",
+    "description": "Authentic 100% pure veg Set Dosa prepared fresh in our hygienic kitchens.",
+    "price": 406,
+    "image": "https://foodish-api.com/images/dosa/dosa25.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.4
+  },
+  {
+    "name": "Neer Dosa",
+    "description": "Authentic 100% pure veg Neer Dosa prepared fresh in our hygienic kitchens.",
+    "price": 406,
+    "image": "https://foodish-api.com/images/dosa/dosa26.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Pesarattu Dosa",
+    "description": "Authentic 100% pure veg Pesarattu Dosa prepared fresh in our hygienic kitchens.",
+    "price": 276,
+    "image": "https://foodish-api.com/images/dosa/dosa27.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Adai Dosa",
+    "description": "Authentic 100% pure veg Adai Dosa prepared fresh in our hygienic kitchens.",
+    "price": 434,
+    "image": "https://foodish-api.com/images/dosa/dosa28.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Idli Sambar",
+    "description": "Authentic 100% pure veg Idli Sambar prepared fresh in our hygienic kitchens.",
+    "price": 418,
+    "image": "https://foodish-api.com/images/idly/idly10.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.8
+  },
+  {
+    "name": "Mini Idli",
+    "description": "Authentic 100% pure veg Mini Idli prepared fresh in our hygienic kitchens.",
+    "price": 153,
+    "image": "https://foodish-api.com/images/idly/idly11.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Rava Idli",
+    "description": "Authentic 100% pure veg Rava Idli prepared fresh in our hygienic kitchens.",
+    "price": 108,
+    "image": "https://foodish-api.com/images/idly/idly12.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Thatte Idli",
+    "description": "Authentic 100% pure veg Thatte Idli prepared fresh in our hygienic kitchens.",
+    "price": 244,
+    "image": "https://foodish-api.com/images/idly/idly13.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Kanchipuram Idli",
+    "description": "Authentic 100% pure veg Kanchipuram Idli prepared fresh in our hygienic kitchens.",
+    "price": 106,
+    "image": "https://foodish-api.com/images/idly/idly14.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  },
+  {
+    "name": "Fried Idli",
+    "description": "Authentic 100% pure veg Fried Idli prepared fresh in our hygienic kitchens.",
+    "price": 224,
+    "image": "https://foodish-api.com/images/idly/idly15.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 5
+  },
+  {
+    "name": "Chilli Idli",
+    "description": "Authentic 100% pure veg Chilli Idli prepared fresh in our hygienic kitchens.",
+    "price": 304,
+    "image": "https://foodish-api.com/images/idly/idly16.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Medu Vada",
+    "description": "Authentic 100% pure veg Medu Vada prepared fresh in our hygienic kitchens.",
+    "price": 200,
+    "image": "https://foodish-api.com/images/idly/idly17.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.8
+  },
+  {
+    "name": "Dal Vada",
+    "description": "Authentic 100% pure veg Dal Vada prepared fresh in our hygienic kitchens.",
+    "price": 410,
+    "image": "https://foodish-api.com/images/idly/idly18.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Rasa Vada",
+    "description": "Authentic 100% pure veg Rasa Vada prepared fresh in our hygienic kitchens.",
+    "price": 320,
+    "image": "https://foodish-api.com/images/idly/idly19.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Curd Vada",
+    "description": "Authentic 100% pure veg Curd Vada prepared fresh in our hygienic kitchens.",
+    "price": 188,
+    "image": "https://foodish-api.com/images/idly/idly20.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  },
+  {
+    "name": "Plain Uttapam",
+    "description": "Authentic 100% pure veg Plain Uttapam prepared fresh in our hygienic kitchens.",
+    "price": 331,
+    "image": "https://foodish-api.com/images/dosa/dosa29.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Onion Uttapam",
+    "description": "Authentic 100% pure veg Onion Uttapam prepared fresh in our hygienic kitchens.",
+    "price": 298,
+    "image": "https://foodish-api.com/images/dosa/dosa30.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  },
+  {
+    "name": "Tomato Uttapam",
+    "description": "Authentic 100% pure veg Tomato Uttapam prepared fresh in our hygienic kitchens.",
+    "price": 212,
+    "image": "https://foodish-api.com/images/dosa/dosa31.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Mixed Veg Uttapam",
+    "description": "Authentic 100% pure veg Mixed Veg Uttapam prepared fresh in our hygienic kitchens.",
+    "price": 313,
+    "image": "https://foodish-api.com/images/dosa/dosa32.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Upma",
+    "description": "Authentic 100% pure veg Upma prepared fresh in our hygienic kitchens.",
+    "price": 417,
+    "image": "https://foodish-api.com/images/dosa/dosa33.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Ven Pongal",
+    "description": "Authentic 100% pure veg Ven Pongal prepared fresh in our hygienic kitchens.",
+    "price": 419,
+    "image": "https://foodish-api.com/images/rice/rice9.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Veg Biryani",
+    "description": "Authentic 100% pure veg Veg Biryani prepared fresh in our hygienic kitchens.",
+    "price": 153,
+    "image": "https://foodish-api.com/images/biryani/biryani10.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Paneer Biryani",
+    "description": "Authentic 100% pure veg Paneer Biryani prepared fresh in our hygienic kitchens.",
+    "price": 178,
+    "image": "https://foodish-api.com/images/biryani/biryani11.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Mushroom Biryani",
+    "description": "Authentic 100% pure veg Mushroom Biryani prepared fresh in our hygienic kitchens.",
+    "price": 443,
+    "image": "https://foodish-api.com/images/biryani/biryani12.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Hyderabadi Biryani",
+    "description": "Authentic 100% pure veg Hyderabadi Biryani prepared fresh in our hygienic kitchens.",
+    "price": 381,
+    "image": "https://foodish-api.com/images/biryani/biryani13.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Lucknowi Biryani",
+    "description": "Authentic 100% pure veg Lucknowi Biryani prepared fresh in our hygienic kitchens.",
+    "price": 426,
+    "image": "https://foodish-api.com/images/biryani/biryani14.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Kolkata Veg Biryani",
+    "description": "Authentic 100% pure veg Kolkata Veg Biryani prepared fresh in our hygienic kitchens.",
+    "price": 217,
+    "image": "https://foodish-api.com/images/biryani/biryani15.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Sindhi Biryani",
+    "description": "Authentic 100% pure veg Sindhi Biryani prepared fresh in our hygienic kitchens.",
+    "price": 406,
+    "image": "https://foodish-api.com/images/biryani/biryani16.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 5
+  },
+  {
+    "name": "Awadhi Biryani",
+    "description": "Authentic 100% pure veg Awadhi Biryani prepared fresh in our hygienic kitchens.",
+    "price": 251,
+    "image": "https://foodish-api.com/images/biryani/biryani17.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.2
+  },
+  {
+    "name": "Jeera Rice",
+    "description": "Authentic 100% pure veg Jeera Rice prepared fresh in our hygienic kitchens.",
+    "price": 335,
+    "image": "https://foodish-api.com/images/rice/rice10.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Steamed Rice",
+    "description": "Authentic 100% pure veg Steamed Rice prepared fresh in our hygienic kitchens.",
+    "price": 418,
+    "image": "https://foodish-api.com/images/rice/rice11.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Ghee Rice",
+    "description": "Authentic 100% pure veg Ghee Rice prepared fresh in our hygienic kitchens.",
+    "price": 367,
+    "image": "https://foodish-api.com/images/rice/rice12.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.5
+  },
+  {
+    "name": "Lemon Rice",
+    "description": "Authentic 100% pure veg Lemon Rice prepared fresh in our hygienic kitchens.",
+    "price": 307,
+    "image": "https://foodish-api.com/images/rice/rice13.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Tomato Rice",
+    "description": "Authentic 100% pure veg Tomato Rice prepared fresh in our hygienic kitchens.",
+    "price": 432,
+    "image": "https://foodish-api.com/images/rice/rice14.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Curd Rice",
+    "description": "Authentic 100% pure veg Curd Rice prepared fresh in our hygienic kitchens.",
+    "price": 193,
+    "image": "https://foodish-api.com/images/rice/rice15.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  },
+  {
+    "name": "Tamarind Rice",
+    "description": "Authentic 100% pure veg Tamarind Rice prepared fresh in our hygienic kitchens.",
+    "price": 367,
+    "image": "https://foodish-api.com/images/rice/rice16.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Coconut Rice",
+    "description": "Authentic 100% pure veg Coconut Rice prepared fresh in our hygienic kitchens.",
+    "price": 113,
+    "image": "https://foodish-api.com/images/rice/rice17.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  },
+  {
+    "name": "Mango Rice",
+    "description": "Authentic 100% pure veg Mango Rice prepared fresh in our hygienic kitchens.",
+    "price": 393,
+    "image": "https://foodish-api.com/images/rice/rice18.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.4
+  },
+  {
+    "name": "Bisi Bele Bath",
+    "description": "Authentic 100% pure veg Bisi Bele Bath prepared fresh in our hygienic kitchens.",
+    "price": 311,
+    "image": "https://foodish-api.com/images/biryani/biryani18.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Vangi Bath",
+    "description": "Authentic 100% pure veg Vangi Bath prepared fresh in our hygienic kitchens.",
+    "price": 111,
+    "image": "https://foodish-api.com/images/biryani/biryani19.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 5
+  },
+  {
+    "name": "Pudina Rice",
+    "description": "Authentic 100% pure veg Pudina Rice prepared fresh in our hygienic kitchens.",
+    "price": 360,
+    "image": "https://foodish-api.com/images/rice/rice19.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.8
+  },
+  {
+    "name": "Coriander Rice",
+    "description": "Authentic 100% pure veg Coriander Rice prepared fresh in our hygienic kitchens.",
+    "price": 246,
+    "image": "https://foodish-api.com/images/rice/rice20.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.3
+  },
+  {
+    "name": "Schezwan Fried Rice",
+    "description": "Authentic 100% pure veg Schezwan Fried Rice prepared fresh in our hygienic kitchens.",
+    "price": 382,
+    "image": "https://foodish-api.com/images/rice/rice21.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Veg Fried Rice",
+    "description": "Authentic 100% pure veg Veg Fried Rice prepared fresh in our hygienic kitchens.",
+    "price": 341,
+    "image": "https://foodish-api.com/images/rice/rice22.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Paneer Fried Rice",
+    "description": "Authentic 100% pure veg Paneer Fried Rice prepared fresh in our hygienic kitchens.",
+    "price": 141,
+    "image": "https://foodish-api.com/images/rice/rice23.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4
+  },
+  {
+    "name": "Mushroom Fried Rice",
+    "description": "Authentic 100% pure veg Mushroom Fried Rice prepared fresh in our hygienic kitchens.",
+    "price": 155,
+    "image": "https://foodish-api.com/images/rice/rice24.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Veg Pulao",
+    "description": "Authentic 100% pure veg Veg Pulao prepared fresh in our hygienic kitchens.",
+    "price": 111,
+    "image": "https://foodish-api.com/images/biryani/biryani20.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Kashmiri Pulao",
+    "description": "Authentic 100% pure veg Kashmiri Pulao prepared fresh in our hygienic kitchens.",
+    "price": 298,
+    "image": "https://foodish-api.com/images/biryani/biryani21.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  },
+  {
+    "name": "Navratan Pulao",
+    "description": "Authentic 100% pure veg Navratan Pulao prepared fresh in our hygienic kitchens.",
+    "price": 344,
+    "image": "https://foodish-api.com/images/biryani/biryani22.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Mutter Pulao",
+    "description": "Authentic 100% pure veg Mutter Pulao prepared fresh in our hygienic kitchens.",
+    "price": 241,
+    "image": "https://foodish-api.com/images/biryani/biryani23.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Tawa Pulao",
+    "description": "Authentic 100% pure veg Tawa Pulao prepared fresh in our hygienic kitchens.",
+    "price": 277,
+    "image": "https://foodish-api.com/images/biryani/biryani24.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Punjabi Samosa",
+    "description": "Authentic 100% pure veg Punjabi Samosa prepared fresh in our hygienic kitchens.",
+    "price": 147,
+    "image": "https://foodish-api.com/images/samosa/samosa2.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Mini Samosa",
+    "description": "Authentic 100% pure veg Mini Samosa prepared fresh in our hygienic kitchens.",
+    "price": 374,
+    "image": "https://foodish-api.com/images/samosa/samosa3.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.9
+  },
+  {
+    "name": "Cheese Samosa",
+    "description": "Authentic 100% pure veg Cheese Samosa prepared fresh in our hygienic kitchens.",
+    "price": 204,
+    "image": "https://foodish-api.com/images/samosa/samosa4.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Paneer Samosa",
+    "description": "Authentic 100% pure veg Paneer Samosa prepared fresh in our hygienic kitchens.",
+    "price": 374,
+    "image": "https://foodish-api.com/images/samosa/samosa5.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Chinese Samosa",
+    "description": "Authentic 100% pure veg Chinese Samosa prepared fresh in our hygienic kitchens.",
+    "price": 108,
+    "image": "https://foodish-api.com/images/samosa/samosa6.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Onion Kachori",
+    "description": "Authentic 100% pure veg Onion Kachori prepared fresh in our hygienic kitchens.",
+    "price": 351,
+    "image": "https://foodish-api.com/images/samosa/samosa7.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Dal Kachori",
+    "description": "Authentic 100% pure veg Dal Kachori prepared fresh in our hygienic kitchens.",
+    "price": 420,
+    "image": "https://foodish-api.com/images/samosa/samosa8.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Moong Dal Kachori",
+    "description": "Authentic 100% pure veg Moong Dal Kachori prepared fresh in our hygienic kitchens.",
+    "price": 136,
+    "image": "https://foodish-api.com/images/samosa/samosa9.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 5
+  },
+  {
+    "name": "Raj Kachori",
+    "description": "Authentic 100% pure veg Raj Kachori prepared fresh in our hygienic kitchens.",
+    "price": 119,
+    "image": "https://foodish-api.com/images/samosa/samosa10.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Aloo Tikki",
+    "description": "Authentic 100% pure veg Aloo Tikki prepared fresh in our hygienic kitchens.",
+    "price": 122,
+    "image": "https://foodish-api.com/images/samosa/samosa11.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Aloo Tikki Chaat",
+    "description": "Authentic 100% pure veg Aloo Tikki Chaat prepared fresh in our hygienic kitchens.",
+    "price": 175,
+    "image": "https://foodish-api.com/images/samosa/samosa12.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  },
+  {
+    "name": "Bhel Puri",
+    "description": "Authentic 100% pure veg Bhel Puri prepared fresh in our hygienic kitchens.",
+    "price": 215,
+    "image": "https://foodish-api.com/images/samosa/samosa13.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Pani Puri",
+    "description": "Authentic 100% pure veg Pani Puri prepared fresh in our hygienic kitchens.",
+    "price": 182,
+    "image": "https://foodish-api.com/images/samosa/samosa14.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Sev Puri",
+    "description": "Authentic 100% pure veg Sev Puri prepared fresh in our hygienic kitchens.",
+    "price": 214,
+    "image": "https://foodish-api.com/images/samosa/samosa15.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Dahi Puri",
+    "description": "Authentic 100% pure veg Dahi Puri prepared fresh in our hygienic kitchens.",
+    "price": 199,
+    "image": "https://foodish-api.com/images/samosa/samosa16.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Papdi Chaat",
+    "description": "Authentic 100% pure veg Papdi Chaat prepared fresh in our hygienic kitchens.",
+    "price": 325,
+    "image": "https://foodish-api.com/images/samosa/samosa17.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Dahi Vada",
+    "description": "Authentic 100% pure veg Dahi Vada prepared fresh in our hygienic kitchens.",
+    "price": 323,
+    "image": "https://foodish-api.com/images/idly/idly21.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.3
+  },
+  {
+    "name": "Dahi Bhalla",
+    "description": "Authentic 100% pure veg Dahi Bhalla prepared fresh in our hygienic kitchens.",
+    "price": 271,
+    "image": "https://foodish-api.com/images/idly/idly22.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 5
+  },
+  {
+    "name": "Aloo Chaat",
+    "description": "Authentic 100% pure veg Aloo Chaat prepared fresh in our hygienic kitchens.",
+    "price": 425,
+    "image": "https://foodish-api.com/images/samosa/samosa18.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Samosa Chaat",
+    "description": "Authentic 100% pure veg Samosa Chaat prepared fresh in our hygienic kitchens.",
+    "price": 399,
+    "image": "https://foodish-api.com/images/samosa/samosa19.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Kachori Chaat",
+    "description": "Authentic 100% pure veg Kachori Chaat prepared fresh in our hygienic kitchens.",
+    "price": 280,
+    "image": "https://foodish-api.com/images/samosa/samosa20.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Basket Chaat",
+    "description": "Authentic 100% pure veg Basket Chaat prepared fresh in our hygienic kitchens.",
+    "price": 279,
+    "image": "https://foodish-api.com/images/samosa/samosa21.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Palak Patta Chaat",
+    "description": "Authentic 100% pure veg Palak Patta Chaat prepared fresh in our hygienic kitchens.",
+    "price": 151,
+    "image": "https://foodish-api.com/images/samosa/samosa22.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.5
+  },
+  {
+    "name": "Shakarkandi Chaat",
+    "description": "Authentic 100% pure veg Shakarkandi Chaat prepared fresh in our hygienic kitchens.",
+    "price": 226,
+    "image": "https://foodish-api.com/images/samosa/samosa1.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Chana Chaat",
+    "description": "Authentic 100% pure veg Chana Chaat prepared fresh in our hygienic kitchens.",
+    "price": 355,
+    "image": "https://foodish-api.com/images/samosa/samosa2.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Matar Chaat",
+    "description": "Authentic 100% pure veg Matar Chaat prepared fresh in our hygienic kitchens.",
+    "price": 229,
+    "image": "https://foodish-api.com/images/samosa/samosa3.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4
+  },
+  {
+    "name": "Ragda Pattice",
+    "description": "Authentic 100% pure veg Ragda Pattice prepared fresh in our hygienic kitchens.",
+    "price": 249,
+    "image": "https://foodish-api.com/images/rice/rice25.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Khandvi",
+    "description": "Authentic 100% pure veg Khandvi prepared fresh in our hygienic kitchens.",
+    "price": 313,
+    "image": "https://foodish-api.com/images/biryani/biryani25.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Dhokla",
+    "description": "Authentic 100% pure veg Dhokla prepared fresh in our hygienic kitchens.",
+    "price": 388,
+    "image": "https://foodish-api.com/images/samosa/samosa4.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Nylon Khaman",
+    "description": "Authentic 100% pure veg Nylon Khaman prepared fresh in our hygienic kitchens.",
+    "price": 306,
+    "image": "https://foodish-api.com/images/samosa/samosa5.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.2
+  },
+  {
+    "name": "Fafda",
+    "description": "Authentic 100% pure veg Fafda prepared fresh in our hygienic kitchens.",
+    "price": 349,
+    "image": "https://foodish-api.com/images/rice/rice26.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.4
+  },
+  {
+    "name": "Jalebi",
+    "description": "Authentic 100% pure veg Jalebi prepared fresh in our hygienic kitchens.",
+    "price": 239,
+    "image": "https://foodish-api.com/images/dessert/dessert2.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Vada Pav",
+    "description": "Authentic 100% pure veg Vada Pav prepared fresh in our hygienic kitchens.",
+    "price": 346,
+    "image": "https://foodish-api.com/images/idly/idly23.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.8
+  },
+  {
+    "name": "Misal Pav",
+    "description": "Authentic 100% pure veg Misal Pav prepared fresh in our hygienic kitchens.",
+    "price": 173,
+    "image": "https://foodish-api.com/images/samosa/samosa6.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Pav Bhaji",
+    "description": "Authentic 100% pure veg Pav Bhaji prepared fresh in our hygienic kitchens.",
+    "price": 211,
+    "image": "https://foodish-api.com/images/samosa/samosa7.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Cheese Pav Bhaji",
+    "description": "Authentic 100% pure veg Cheese Pav Bhaji prepared fresh in our hygienic kitchens.",
+    "price": 444,
+    "image": "https://foodish-api.com/images/samosa/samosa8.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Paneer Pav Bhaji",
+    "description": "Authentic 100% pure veg Paneer Pav Bhaji prepared fresh in our hygienic kitchens.",
+    "price": 374,
+    "image": "https://foodish-api.com/images/samosa/samosa9.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Dabeli",
+    "description": "Authentic 100% pure veg Dabeli prepared fresh in our hygienic kitchens.",
+    "price": 431,
+    "image": "https://foodish-api.com/images/idly/idly24.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Mirchi Vada",
+    "description": "Authentic 100% pure veg Mirchi Vada prepared fresh in our hygienic kitchens.",
+    "price": 154,
+    "image": "https://foodish-api.com/images/idly/idly25.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.1
+  },
+  {
+    "name": "Kothimbir Vadi",
+    "description": "Authentic 100% pure veg Kothimbir Vadi prepared fresh in our hygienic kitchens.",
+    "price": 312,
+    "image": "https://foodish-api.com/images/samosa/samosa10.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Plain Naan",
+    "description": "Authentic 100% pure veg Plain Naan prepared fresh in our hygienic kitchens.",
+    "price": 184,
+    "image": "https://foodish-api.com/images/biryani/biryani26.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Butter Naan",
+    "description": "Authentic 100% pure veg Butter Naan prepared fresh in our hygienic kitchens.",
+    "price": 117,
+    "image": "https://foodish-api.com/images/biryani/biryani27.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Garlic Naan",
+    "description": "Authentic 100% pure veg Garlic Naan prepared fresh in our hygienic kitchens.",
+    "price": 361,
+    "image": "https://foodish-api.com/images/biryani/biryani28.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Cheese Naan",
+    "description": "Authentic 100% pure veg Cheese Naan prepared fresh in our hygienic kitchens.",
+    "price": 264,
+    "image": "https://foodish-api.com/images/biryani/biryani29.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Chilli Garlic Naan",
+    "description": "Authentic 100% pure veg Chilli Garlic Naan prepared fresh in our hygienic kitchens.",
+    "price": 432,
+    "image": "https://foodish-api.com/images/biryani/biryani30.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Paneer Naan",
+    "description": "Authentic 100% pure veg Paneer Naan prepared fresh in our hygienic kitchens.",
+    "price": 194,
+    "image": "https://foodish-api.com/images/biryani/biryani31.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Kashmiri Naan",
+    "description": "Authentic 100% pure veg Kashmiri Naan prepared fresh in our hygienic kitchens.",
+    "price": 412,
+    "image": "https://foodish-api.com/images/biryani/biryani32.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Tandoori Roti",
+    "description": "Authentic 100% pure veg Tandoori Roti prepared fresh in our hygienic kitchens.",
+    "price": 183,
+    "image": "https://foodish-api.com/images/biryani/biryani33.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  },
+  {
+    "name": "Butter Roti",
+    "description": "Authentic 100% pure veg Butter Roti prepared fresh in our hygienic kitchens.",
+    "price": 227,
+    "image": "https://foodish-api.com/images/biryani/biryani34.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.2
+  },
+  {
+    "name": "Missi Roti",
+    "description": "Authentic 100% pure veg Missi Roti prepared fresh in our hygienic kitchens.",
+    "price": 261,
+    "image": "https://foodish-api.com/images/biryani/biryani35.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Rumali Roti",
+    "description": "Authentic 100% pure veg Rumali Roti prepared fresh in our hygienic kitchens.",
+    "price": 103,
+    "image": "https://foodish-api.com/images/biryani/biryani36.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Khasta Roti",
+    "description": "Authentic 100% pure veg Khasta Roti prepared fresh in our hygienic kitchens.",
+    "price": 342,
+    "image": "https://foodish-api.com/images/biryani/biryani37.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.5
+  },
+  {
+    "name": "Lachha Paratha",
+    "description": "Authentic 100% pure veg Lachha Paratha prepared fresh in our hygienic kitchens.",
+    "price": 101,
+    "image": "https://foodish-api.com/images/biryani/biryani38.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Pudina Paratha",
+    "description": "Authentic 100% pure veg Pudina Paratha prepared fresh in our hygienic kitchens.",
+    "price": 299,
+    "image": "https://foodish-api.com/images/biryani/biryani39.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Methi Paratha",
+    "description": "Authentic 100% pure veg Methi Paratha prepared fresh in our hygienic kitchens.",
+    "price": 265,
+    "image": "https://foodish-api.com/images/biryani/biryani40.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Aloo Paratha",
+    "description": "Authentic 100% pure veg Aloo Paratha prepared fresh in our hygienic kitchens.",
+    "price": 407,
+    "image": "https://foodish-api.com/images/biryani/biryani41.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  },
+  {
+    "name": "Gobi Paratha",
+    "description": "Authentic 100% pure veg Gobi Paratha prepared fresh in our hygienic kitchens.",
+    "price": 341,
+    "image": "https://foodish-api.com/images/biryani/biryani42.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Mooli Paratha",
+    "description": "Authentic 100% pure veg Mooli Paratha prepared fresh in our hygienic kitchens.",
+    "price": 410,
+    "image": "https://foodish-api.com/images/biryani/biryani43.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.4
+  },
+  {
+    "name": "Paneer Paratha",
+    "description": "Authentic 100% pure veg Paneer Paratha prepared fresh in our hygienic kitchens.",
+    "price": 424,
+    "image": "https://foodish-api.com/images/biryani/biryani44.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.7
+  },
+  {
+    "name": "Mixed Veg Paratha",
+    "description": "Authentic 100% pure veg Mixed Veg Paratha prepared fresh in our hygienic kitchens.",
+    "price": 133,
+    "image": "https://foodish-api.com/images/biryani/biryani45.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 5
+  },
+  {
+    "name": "Onion Paratha",
+    "description": "Authentic 100% pure veg Onion Paratha prepared fresh in our hygienic kitchens.",
+    "price": 390,
+    "image": "https://foodish-api.com/images/biryani/biryani46.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Puri",
+    "description": "Authentic 100% pure veg Puri prepared fresh in our hygienic kitchens.",
+    "price": 415,
+    "image": "https://foodish-api.com/images/samosa/samosa11.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Bhatura",
+    "description": "Authentic 100% pure veg Bhatura prepared fresh in our hygienic kitchens.",
+    "price": 301,
+    "image": "https://foodish-api.com/images/rice/rice27.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Amritsari Kulcha",
+    "description": "Authentic 100% pure veg Amritsari Kulcha prepared fresh in our hygienic kitchens.",
+    "price": 404,
+    "image": "https://foodish-api.com/images/biryani/biryani47.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Onion Kulcha",
+    "description": "Authentic 100% pure veg Onion Kulcha prepared fresh in our hygienic kitchens.",
+    "price": 274,
+    "image": "https://foodish-api.com/images/biryani/biryani48.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4
+  },
+  {
+    "name": "Paneer Kulcha",
+    "description": "Authentic 100% pure veg Paneer Kulcha prepared fresh in our hygienic kitchens.",
+    "price": 366,
+    "image": "https://foodish-api.com/images/biryani/biryani49.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Aloo Kulcha",
+    "description": "Authentic 100% pure veg Aloo Kulcha prepared fresh in our hygienic kitchens.",
+    "price": 126,
+    "image": "https://foodish-api.com/images/biryani/biryani50.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Bhakri",
+    "description": "Authentic 100% pure veg Bhakri prepared fresh in our hygienic kitchens.",
+    "price": 185,
+    "image": "https://foodish-api.com/images/biryani/biryani51.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.9
+  },
+  {
+    "name": "Thepla",
+    "description": "Authentic 100% pure veg Thepla prepared fresh in our hygienic kitchens.",
+    "price": 402,
+    "image": "https://foodish-api.com/images/dosa/dosa34.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Puran Poli",
+    "description": "Authentic 100% pure veg Puran Poli prepared fresh in our hygienic kitchens.",
+    "price": 373,
+    "image": "https://foodish-api.com/images/idly/idly26.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Gulab Jamun",
+    "description": "Authentic 100% pure veg Gulab Jamun prepared fresh in our hygienic kitchens.",
+    "price": 109,
+    "image": "https://foodish-api.com/images/dessert/dessert3.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  },
+  {
+    "name": "Kala Jamun",
+    "description": "Authentic 100% pure veg Kala Jamun prepared fresh in our hygienic kitchens.",
+    "price": 330,
+    "image": "https://foodish-api.com/images/dessert/dessert4.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Rasgulla",
+    "description": "Authentic 100% pure veg Rasgulla prepared fresh in our hygienic kitchens.",
+    "price": 136,
+    "image": "https://foodish-api.com/images/dessert/dessert5.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Rajbhog",
+    "description": "Authentic 100% pure veg Rajbhog prepared fresh in our hygienic kitchens.",
+    "price": 294,
+    "image": "https://foodish-api.com/images/idly/idly27.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.3
+  },
+  {
+    "name": "Rasmalai",
+    "description": "Authentic 100% pure veg Rasmalai prepared fresh in our hygienic kitchens.",
+    "price": 192,
+    "image": "https://foodish-api.com/images/rice/rice28.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Cham Cham",
+    "description": "Authentic 100% pure veg Cham Cham prepared fresh in our hygienic kitchens.",
+    "price": 213,
+    "image": "https://foodish-api.com/images/biryani/biryani52.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.3
+  },
+  {
+    "name": "Kaju Katli",
+    "description": "Authentic 100% pure veg Kaju Katli prepared fresh in our hygienic kitchens.",
+    "price": 176,
+    "image": "https://foodish-api.com/images/dessert/dessert6.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Badam Katli",
+    "description": "Authentic 100% pure veg Badam Katli prepared fresh in our hygienic kitchens.",
+    "price": 403,
+    "image": "https://foodish-api.com/images/dessert/dessert7.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.6
+  },
+  {
+    "name": "Pista Barfi",
+    "description": "Authentic 100% pure veg Pista Barfi prepared fresh in our hygienic kitchens.",
+    "price": 295,
+    "image": "https://foodish-api.com/images/dessert/dessert8.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.6
+  },
+  {
+    "name": "Besan Barfi",
+    "description": "Authentic 100% pure veg Besan Barfi prepared fresh in our hygienic kitchens.",
+    "price": 450,
+    "image": "https://foodish-api.com/images/dessert/dessert9.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Coconut Barfi",
+    "description": "Authentic 100% pure veg Coconut Barfi prepared fresh in our hygienic kitchens.",
+    "price": 271,
+    "image": "https://foodish-api.com/images/dessert/dessert10.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Milk Cake",
+    "description": "Authentic 100% pure veg Milk Cake prepared fresh in our hygienic kitchens.",
+    "price": 324,
+    "image": "https://foodish-api.com/images/dessert/dessert11.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Kalakand",
+    "description": "Authentic 100% pure veg Kalakand prepared fresh in our hygienic kitchens.",
+    "price": 150,
+    "image": "https://foodish-api.com/images/rice/rice29.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Doda Barfi",
+    "description": "Authentic 100% pure veg Doda Barfi prepared fresh in our hygienic kitchens.",
+    "price": 287,
+    "image": "https://foodish-api.com/images/dessert/dessert12.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.7
+  },
+  {
+    "name": "Moong Dal Halwa",
+    "description": "Authentic 100% pure veg Moong Dal Halwa prepared fresh in our hygienic kitchens.",
+    "price": 336,
+    "image": "https://foodish-api.com/images/dessert/dessert13.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Gajar Halwa",
+    "description": "Authentic 100% pure veg Gajar Halwa prepared fresh in our hygienic kitchens.",
+    "price": 336,
+    "image": "https://foodish-api.com/images/dessert/dessert14.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Sooji Halwa",
+    "description": "Authentic 100% pure veg Sooji Halwa prepared fresh in our hygienic kitchens.",
+    "price": 213,
+    "image": "https://foodish-api.com/images/dessert/dessert15.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Badam Halwa",
+    "description": "Authentic 100% pure veg Badam Halwa prepared fresh in our hygienic kitchens.",
+    "price": 317,
+    "image": "https://foodish-api.com/images/dessert/dessert16.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Atte Ka Halwa",
+    "description": "Authentic 100% pure veg Atte Ka Halwa prepared fresh in our hygienic kitchens.",
+    "price": 367,
+    "image": "https://foodish-api.com/images/dessert/dessert17.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Kheer",
+    "description": "Authentic 100% pure veg Kheer prepared fresh in our hygienic kitchens.",
+    "price": 306,
+    "image": "https://foodish-api.com/images/dessert/dessert18.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.3
+  },
+  {
+    "name": "Phirni",
+    "description": "Authentic 100% pure veg Phirni prepared fresh in our hygienic kitchens.",
+    "price": 236,
+    "image": "https://foodish-api.com/images/dessert/dessert19.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Rabri",
+    "description": "Authentic 100% pure veg Rabri prepared fresh in our hygienic kitchens.",
+    "price": 307,
+    "image": "https://foodish-api.com/images/dessert/dessert20.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.3
+  },
+  {
+    "name": "Basundi",
+    "description": "Authentic 100% pure veg Basundi prepared fresh in our hygienic kitchens.",
+    "price": 433,
+    "image": "https://foodish-api.com/images/dosa/dosa35.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.5
+  },
+  {
+    "name": "Shrikhand",
+    "description": "Authentic 100% pure veg Shrikhand prepared fresh in our hygienic kitchens.",
+    "price": 311,
+    "image": "https://foodish-api.com/images/dessert/dessert21.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.2
+  },
+  {
+    "name": "Amrakhand",
+    "description": "Authentic 100% pure veg Amrakhand prepared fresh in our hygienic kitchens.",
+    "price": 300,
+    "image": "https://foodish-api.com/images/rice/rice30.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Jalebi",
+    "description": "Authentic 100% pure veg Jalebi prepared fresh in our hygienic kitchens.",
+    "price": 133,
+    "image": "https://foodish-api.com/images/dessert/dessert22.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Imarti",
+    "description": "Authentic 100% pure veg Imarti prepared fresh in our hygienic kitchens.",
+    "price": 280,
+    "image": "https://foodish-api.com/images/dessert/dessert23.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Malpua",
+    "description": "Authentic 100% pure veg Malpua prepared fresh in our hygienic kitchens.",
+    "price": 324,
+    "image": "https://foodish-api.com/images/dessert/dessert24.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.5
+  },
+  {
+    "name": "Ghevar",
+    "description": "Authentic 100% pure veg Ghevar prepared fresh in our hygienic kitchens.",
+    "price": 157,
+    "image": "https://foodish-api.com/images/rice/rice31.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  },
+  {
+    "name": "Mysore Pak",
+    "description": "Authentic 100% pure veg Mysore Pak prepared fresh in our hygienic kitchens.",
+    "price": 349,
+    "image": "https://foodish-api.com/images/dessert/dessert25.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Sandesh",
+    "description": "Authentic 100% pure veg Sandesh prepared fresh in our hygienic kitchens.",
+    "price": 425,
+    "image": "https://foodish-api.com/images/dessert/dessert26.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Mishti Doi",
+    "description": "Authentic 100% pure veg Mishti Doi prepared fresh in our hygienic kitchens.",
+    "price": 307,
+    "image": "https://foodish-api.com/images/idly/idly28.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Peda",
+    "description": "Authentic 100% pure veg Peda prepared fresh in our hygienic kitchens.",
+    "price": 382,
+    "image": "https://foodish-api.com/images/dessert/dessert27.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Mathura Peda",
+    "description": "Authentic 100% pure veg Mathura Peda prepared fresh in our hygienic kitchens.",
+    "price": 321,
+    "image": "https://foodish-api.com/images/dessert/dessert28.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Dharwad Peda",
+    "description": "Authentic 100% pure veg Dharwad Peda prepared fresh in our hygienic kitchens.",
+    "price": 311,
+    "image": "https://foodish-api.com/images/dessert/dessert29.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Modak",
+    "description": "Authentic 100% pure veg Modak prepared fresh in our hygienic kitchens.",
+    "price": 278,
+    "image": "https://foodish-api.com/images/dessert/dessert30.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Mix Veg",
+    "description": "Authentic 100% pure veg Mix Veg prepared fresh in our hygienic kitchens.",
+    "price": 235,
+    "image": "https://foodish-api.com/images/rice/rice32.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Veg Jalfrezi",
+    "description": "Authentic 100% pure veg Veg Jalfrezi prepared fresh in our hygienic kitchens.",
+    "price": 159,
+    "image": "https://foodish-api.com/images/biryani/biryani53.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.9
+  },
+  {
+    "name": "Veg Kadai",
+    "description": "Authentic 100% pure veg Veg Kadai prepared fresh in our hygienic kitchens.",
+    "price": 129,
+    "image": "https://foodish-api.com/images/dosa/dosa36.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Veg Kolhapuri",
+    "description": "Authentic 100% pure veg Veg Kolhapuri prepared fresh in our hygienic kitchens.",
+    "price": 403,
+    "image": "https://foodish-api.com/images/samosa/samosa12.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Veg Makhanwala",
+    "description": "Authentic 100% pure veg Veg Makhanwala prepared fresh in our hygienic kitchens.",
+    "price": 143,
+    "image": "https://foodish-api.com/images/rice/rice33.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Veg Handi",
+    "description": "Authentic 100% pure veg Veg Handi prepared fresh in our hygienic kitchens.",
+    "price": 130,
+    "image": "https://foodish-api.com/images/biryani/biryani54.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Veg Diwani Handi",
+    "description": "Authentic 100% pure veg Veg Diwani Handi prepared fresh in our hygienic kitchens.",
+    "price": 316,
+    "image": "https://foodish-api.com/images/dosa/dosa37.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Veg Maratha",
+    "description": "Authentic 100% pure veg Veg Maratha prepared fresh in our hygienic kitchens.",
+    "price": 363,
+    "image": "https://foodish-api.com/images/idly/idly29.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 5
+  },
+  {
+    "name": "Veg Kofta",
+    "description": "Authentic 100% pure veg Veg Kofta prepared fresh in our hygienic kitchens.",
+    "price": 149,
+    "image": "https://foodish-api.com/images/rice/rice34.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.4
+  },
+  {
+    "name": "Malai Kofta",
+    "description": "Authentic 100% pure veg Malai Kofta prepared fresh in our hygienic kitchens.",
+    "price": 346,
+    "image": "https://foodish-api.com/images/biryani/biryani55.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Shaam Savera",
+    "description": "Authentic 100% pure veg Shaam Savera prepared fresh in our hygienic kitchens.",
+    "price": 297,
+    "image": "https://foodish-api.com/images/dosa/dosa38.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Aloo Gobi",
+    "description": "Authentic 100% pure veg Aloo Gobi prepared fresh in our hygienic kitchens.",
+    "price": 231,
+    "image": "https://foodish-api.com/images/idly/idly30.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Aloo Jeera",
+    "description": "Authentic 100% pure veg Aloo Jeera prepared fresh in our hygienic kitchens.",
+    "price": 207,
+    "image": "https://foodish-api.com/images/rice/rice35.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Aloo Mutter",
+    "description": "Authentic 100% pure veg Aloo Mutter prepared fresh in our hygienic kitchens.",
+    "price": 333,
+    "image": "https://foodish-api.com/images/biryani/biryani56.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.4
+  },
+  {
+    "name": "Dum Aloo",
+    "description": "Authentic 100% pure veg Dum Aloo prepared fresh in our hygienic kitchens.",
+    "price": 196,
+    "image": "https://foodish-api.com/images/dosa/dosa39.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Kashmiri Dum Aloo",
+    "description": "Authentic 100% pure veg Kashmiri Dum Aloo prepared fresh in our hygienic kitchens.",
+    "price": 342,
+    "image": "https://foodish-api.com/images/idly/idly31.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Bhindi Masala",
+    "description": "Authentic 100% pure veg Bhindi Masala prepared fresh in our hygienic kitchens.",
+    "price": 395,
+    "image": "https://foodish-api.com/images/rice/rice1.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4.6
+  },
+  {
+    "name": "Bhindi Fry",
+    "description": "Authentic 100% pure veg Bhindi Fry prepared fresh in our hygienic kitchens.",
+    "price": 443,
+    "image": "https://foodish-api.com/images/biryani/biryani57.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Kurkuri Bhindi",
+    "description": "Authentic 100% pure veg Kurkuri Bhindi prepared fresh in our hygienic kitchens.",
+    "price": 275,
+    "image": "https://foodish-api.com/images/dosa/dosa40.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  },
+  {
+    "name": "Baingan Bharta",
+    "description": "Authentic 100% pure veg Baingan Bharta prepared fresh in our hygienic kitchens.",
+    "price": 418,
+    "image": "https://foodish-api.com/images/idly/idly32.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Bagara Baingan",
+    "description": "Authentic 100% pure veg Bagara Baingan prepared fresh in our hygienic kitchens.",
+    "price": 169,
+    "image": "https://foodish-api.com/images/rice/rice2.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  },
+  {
+    "name": "Gobi Manchurian",
+    "description": "Authentic 100% pure veg Gobi Manchurian prepared fresh in our hygienic kitchens.",
+    "price": 249,
+    "image": "https://foodish-api.com/images/biryani/biryani58.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": true,
+    "rating": 4
+  },
+  {
+    "name": "Veg Manchurian",
+    "description": "Authentic 100% pure veg Veg Manchurian prepared fresh in our hygienic kitchens.",
+    "price": 117,
+    "image": "https://foodish-api.com/images/dosa/dosa41.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Mushroom Masala",
+    "description": "Authentic 100% pure veg Mushroom Masala prepared fresh in our hygienic kitchens.",
+    "price": 133,
+    "image": "https://foodish-api.com/images/idly/idly33.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Mushroom Mutter",
+    "description": "Authentic 100% pure veg Mushroom Mutter prepared fresh in our hygienic kitchens.",
+    "price": 288,
+    "image": "https://foodish-api.com/images/rice/rice3.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Mushroom Kadai",
+    "description": "Authentic 100% pure veg Mushroom Kadai prepared fresh in our hygienic kitchens.",
+    "price": 290,
+    "image": "https://foodish-api.com/images/dosa/dosa42.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Navratan Korma",
+    "description": "Authentic 100% pure veg Navratan Korma prepared fresh in our hygienic kitchens.",
+    "price": 380,
+    "image": "https://foodish-api.com/images/dosa/dosa43.jpg",
+    "category": "640000000000000000000001",
+    "isAvailable": true,
+    "isPopular": false,
+    "rating": 4
+  }
+]

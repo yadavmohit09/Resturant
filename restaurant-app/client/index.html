@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Premium Food Ordering Platform">
+  <title>Indian Restaurant | Fine Dining & Delivery</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="container nav-container">
+      <a href="#" class="logo" onclick="app.navigate('home')">
+        <div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center; line-height: 1;">
+          <span>Indian Restaurant.</span>
+          <span style="font-size: 0.4em; letter-spacing: 2px; color: var(--text-muted); text-transform: uppercase;">Since 1995</span>
+        </div>
+      </a>
+      <div class="nav-menu" id="navMenu">
+        <a href="#" onclick="app.navigate('home')" class="nav-link">Home</a>
+        <a href="#" onclick="app.navigate('menu')" class="nav-link">Menu</a>
+        <a href="#" onclick="app.navigate('book')" class="nav-link">Order Now & Book a Table</a>
+        <a href="#" onclick="app.navigate('about')" class="nav-link">About</a>
+        <a href="#" onclick="app.navigate('contact')" class="nav-link">Contact</a>
+        <a href="#" onclick="app.navigate('admin')" class="nav-link" style="color: var(--primary-color);"><i class="fa-solid fa-lock"></i> Admin</a>
+      </div>
+
+      <div class="nav-icons">
+        <a href="#" onclick="app.navigate('cart')" class="icon-btn cart-btn">
+          <i class="fa-solid fa-cart-shopping"></i>
+          <span class="cart-count" id="cartCount">0</span>
+        </a>
+        <a href="#" onclick="app.navigate('login')" class="icon-btn" id="userBtn">
+          <i class="fa-regular fa-user"></i>
+        </a>
+        <button class="mobile-toggle" id="mobileToggle">
+          <i class="fa-solid fa-bars"></i>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main App Container -->
+  <main id="app-container">
+    <!-- Views will be injected here -->
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container footer-content">
+      <div class="footer-brand">
+        <h2>Indian Restaurant.</h2>
+        <p>Experience the finest pure vegetarian culinary delights. Premium ingredients, masterful chefs.</p>
+        <div class="social-links">
+          <a href="#"><i class="fa-brands fa-instagram"></i></a>
+          <a href="#"><i class="fa-brands fa-facebook"></i></a>
+          <a href="#"><i class="fa-brands fa-twitter"></i></a>
+        </div>
+      </div>
+      <div class="footer-links">
+        <h3>Quick Links</h3>
+        <a href="#" onclick="app.navigate('home')">Home</a>
+        <a href="#" onclick="app.navigate('menu')">Menu</a>
+        <a href="#" onclick="app.navigate('book')">Order Now & Book a Table</a>
+        <a href="#" onclick="app.navigate('about')">About</a>
+        <a href="#" onclick="app.navigate('contact')">Contact</a>
+      </div>
+      <div class="footer-contact">
+        <h3>Contact Us</h3>
+        <p><i class="fa-solid fa-location-dot"></i> Dewas Naka, Indore, Madhya Pradesh</p>
+        <p><i class="fa-solid fa-phone"></i> +91 9876543210</p>
+        <p><i class="fa-solid fa-envelope"></i> info@indianrestaurant.com</p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2026 Indian Restaurant. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- Notifications -->
+  <div id="toast-container" class="toast-container"></div>
+
+  <!-- Scripts -->
+  <script src="js/api.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

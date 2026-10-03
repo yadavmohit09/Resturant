@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "640000000000000000000001",
+    "name": "Starters",
+    "description": "Kickstart your meal with our tantalizing appetizers."
+  },
+  {
+    "_id": "640000000000000000000002",
+    "name": "Main Course",
+    "description": "Rich, flavorful, and satisfying main dishes."
+  },
+  {
+    "_id": "640000000000000000000003",
+    "name": "Biryani & Rice",
+    "description": "Aromatic basmati rice delicacies cooked to perfection."
+  },
+  {
+    "_id": "640000000000000000000004",
+    "name": "Breads",
+    "description": "Freshly baked Indian breads from the tandoor."
+  },
+  {
+    "_id": "640000000000000000000005",
+    "name": "Desserts",
+    "description": "Sweet indulgences to complete your dining experience."
+  },
+  {
+    "_id": "640000000000000000000006",
+    "name": "Beverages",
+    "description": "Refreshing mocktails, sodas, and traditional drinks."
+  }
+]
